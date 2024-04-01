@@ -1,4 +1,4 @@
-# MHack16 Project (2023)
+# MHacks16 Project (2023)
 Educational application to streamline the process of learning new topics with the help of ChatGPT
 
 # How to run
