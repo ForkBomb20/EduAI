@@ -1,5 +1,5 @@
-# MHacks16 Project (2023)
-Educational application to streamline the process of learning new topics with the help of ChatGPT
+# MHacks16 Project: EduAI (2023)
+Educational application to streamline the process of learning new topics with the help of web scraping and the verious OpenAI APIs
 
 # How to run
 - git clone the repo
